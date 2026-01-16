@@ -10,7 +10,7 @@ For the past 5 years, I’ve been asked, “How do you think people you work wit
 
 To check whether I’m right, you can read their recommendations on LinkedIn :)
 
-For me, the point is not that I don’t evolve or learn new things, but that I stay true to the things I value over the years — and that matters.
+For me, the point is not that I don’t evolve, but that I stay true to the things I value over the years — and that matters.
 
 ## Tech Stack & Tools
 
