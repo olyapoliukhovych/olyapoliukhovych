@@ -7,7 +7,7 @@ Currently focused on React, Next.js, and exploring modern tools.
 ## Tech Stack & Tools
 
 <p align="left">
-  <a href="https://[go-skill-icons.vercel.app](https://github.com/olyapoliukhovych)/">
+  <a href="https://github.com/olyapoliukhovych">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,vscode,vite,npm,axios,zustand,swagger,figma,canva,gemini,notion,netlify,vercel,lighthouse,slack,github&perline=11"
     />
@@ -19,4 +19,17 @@ Currently focused on React, Next.js, and exploring modern tools.
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail) olha.poliukhovych.1@gmail.com 
 
-
+<p align="left">
+  <a href="www.linkedin.com/in/olya-poliukhovych-45b2183a0/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&perline=1"
+    />
+  </a>
+</p>
+<p align="left">
+  <a href="https://[go-skill-icons.vercel.app](https://github.com/olyapoliukhovych)/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=gmail&perline=1"
+    />
+  </a>
+</p>
