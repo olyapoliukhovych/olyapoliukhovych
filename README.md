@@ -24,7 +24,7 @@ Currently focused on React, Next.js, and exploring modern tools.
     />
   </a>
 
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:olha.poliukhovych.1@gmail.com" target="_blank">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=gmail&perline=1"
       alt="Email"
