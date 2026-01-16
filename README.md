@@ -15,21 +15,21 @@ Currently focused on React, Next.js, and exploring modern tools.
 </p>
 
 ## How to reach me
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin) www.linkedin.com/in/olya-poliukhovych-45b2183a0
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail) olha.poliukhovych.1@gmail.com 
 
 <p align="left">
-  <a href="www.linkedin.com/in/olya-poliukhovych-45b2183a0/">
+  <a href="https://www.linkedin.com/in/olya-poliukhovych-45b2183a0/" target="_blank">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&perline=1"
+      alt="LinkedIn"
     />
   </a>
-</p>
-<p align="left">
-  <a href="https://[go-skill-icons.vercel.app](https://github.com/olyapoliukhovych)/">
+
+  <a href="mailto:your.email@gmail.com">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=gmail&perline=1"
+      alt="Email"
     />
   </a>
 </p>
+
+
