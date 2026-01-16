@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I’m Olya 
 
-<!--
-**olyapoliukhovych/olyapoliukhovych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer with a strong background in communication and youth mentoring. 
 
-Here are some ideas to get you started:
+Currently focused on React, Next.js, and exploring modern tools.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack & Tools
+
+<p align="left">
+  <a href="https://[go-skill-icons.vercel.app](https://github.com/olyapoliukhovych)/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,vscode,vite,npm,axios,zustand,swagger,figma,canva,gemini,notion,netlify,vercel,lighthouse,slack,github&perline=11"
+    />
+  </a>
+</p>
+
+## How to reach me
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin) www.linkedin.com/in/olya-poliukhovych-45b2183a0
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail) olha.poliukhovych.1@gmail.com 
+
+
