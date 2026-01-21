@@ -1,6 +1,6 @@
 ## Hi, I’m Olya 
 
-Frontend developer with a strong background in communication and youth mentoring. 
+Full-Stack developer with a strong background in communication and youth mentoring. 
 
 Currently focused on React, Next.js, and exploring modern tools.  
 
