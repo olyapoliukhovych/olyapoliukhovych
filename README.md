@@ -22,22 +22,26 @@ For me, the point is not that I don’t evolve, but that I stay true to the thin
   </a>
 </p>
 
+## Featured Projects  
+
+- [Simply Chocolate](https://https://github.com/olyapoliukhovych/Simply-Chocolate) – a sleek, responsive landing page for a premium chocolate brand. This project focuses on high-quality visuals, smooth transitions, and a clean user journey from product discovery to customer reviews.
+
+- [EduConf](https://https://github.com/olyapoliukhovych/EduConf-by-TechGen) – a modern, responsive single-page website designed for educational conferences. This project was built as an MVP (Minimum Viable Product) focusing on semantic coding, performance optimization, and a Mobile-First approach.
+
+- [ArtistsHub](https://github.com/olyapoliukhovych/ArtistsHub) – a platform for discovering artists, browsing their works, reading details, and leaving feedback.
+
+## Languages
+
+![English](https://img.shields.io/badge/English-C1-purple?style=flat-square)
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-lightpink?style=flat-square)
+
+![Italian](https://img.shields.io/badge/Italian-B2-black?style=flat-square)
+
+![Spanish](https://img.shields.io/badge/Spanish-B1-red?style=flat-square)
+
 ## How to reach me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/olya-poliukhovych-45b2183a0/" target="_blank">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&perline=1"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:olha.poliukhovych.1@gmail.com" target="_blank">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=gmail&perline=1"
-      alt="Email"
-    />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/olya-poliukhovych/) | [Email](mailto:olha.poliukhovych.1@gmail.com)
 
 
